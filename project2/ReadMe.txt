@@ -8,13 +8,7 @@ npx shadcn@latest add card
 npx shadcn@latest add button
 npx shadcn@latest add input
 
-3.files
-	src/data/subjects.json:
-	src/data/verbs.json:
-	src/data/objects.json:
-	next.config.js:
-	src/app/page.js:
-	src/components/SinhalaGrammarChecker.js:
 
-4. run
+
+3. run
 	npm run dev
